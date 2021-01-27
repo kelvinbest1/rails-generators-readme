@@ -1,0 +1,2 @@
+module BccountsHelper
+end

@@ -1,0 +1,2 @@
+class Bccount < ApplicationRecord
+end

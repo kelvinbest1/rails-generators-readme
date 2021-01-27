@@ -1,0 +1,2 @@
+class BccountsController < ApplicationController
+end
